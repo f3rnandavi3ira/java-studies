@@ -7,7 +7,7 @@ public class TestaPontoFlutuante {
 		
 		System.out.println("Meu salário é " + salario);
 		
-		double idade = 37;
+		// double idade = 37;
 		
 		double divisao = 3.14 /2;
 		
